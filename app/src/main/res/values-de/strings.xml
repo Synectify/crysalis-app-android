@@ -11,8 +11,8 @@
     <string name="common_camera_denied_alert_title">Der Kamerazugriff wurde verweigert </string>
     <string name="common_camera_denied_alert_message">Sie haben keinen Zugang zur Kamera erteilt, bitte passen Sie Ihre Datenschutzeinstellungen an</string>
     <string name="common_camera_alert_button_settings">Einstellungen</string>
-    <string name="home_welcome">Willkommen bei Tangem. Haben Sie eine dieser Karten?</string>
-    <string name="home_welcome_back">Willkommen bei Tangem. Scannen Sie Ihre Karten um zu starten.</string>
+    <string name="home_welcome">Willkommen bei Crysalis. Haben Sie eine dieser Karten?</string>
+    <string name="home_welcome_back">Willkommen bei Crysalis. Scannen Sie Ihre Karten um zu starten.</string>
     <string name="home_button_yes">Ja! Bitte scannen</string>
     <string name="home_button_shop">Einkaufen</string>
     <string name="home_ready_title">Halten Sie die \ncard hinter dem \nphone bereit und scannen Sie sie.</string>
@@ -21,7 +21,7 @@
     <string name="wallet_button_scan">Scannen</string>
     <string name="wallet_button_send">Absenden</string>
     <string name="wallet_button_create_wallet">ein Wallet erstellen</string>
-    <string name="wallet_title">Tangem</string>
+    <string name="wallet_title">Crysalis</string>
     <string name="wallet_choice_wallet_option_title">eine Walletoption wählen</string>
     <string name="wallet_balance_token_title">Token</string>
     <string name="wallet_balance_tokens_title">Tokens</string>
@@ -31,9 +31,9 @@
     <string name="wallet_error_no_account">Das Konto ist nicht erstellt</string>
     <string name="wallet_error_no_account_subtitle_format">%s+ %s aufladen um ein Konto zu erstellen</string>
     <string name="wallet_error_empty_card">Leere Karte</string>
-    <string name="wallet_error_empty_card_subtitle">Erstellen Sie ein Wallet um die Tangem-Karte verwenden zu können</string>
+    <string name="wallet_error_empty_card_subtitle">Erstellen Sie ein Wallet um die Crysalis-Karte verwenden zu können</string>
     <string name="wallet_error_unsupported_blockchain">Diese Karte wird nicht unterstützt</string>
-    <string name="wallet_error_unsupported_blockchain_subtitle">Ihre Tangem-Karte wurde für die Arbeit mit einer anderen App ausgestellt. Bitte sehen Sie sich den Namen und die Anleitung auf Ihrer Karte an und installieren Sie eine korrekte App</string>
+    <string name="wallet_error_unsupported_blockchain_subtitle">Ihre Crysalis-Karte wurde für die Arbeit mit einer anderen App ausgestellt. Bitte sehen Sie sich den Namen und die Anleitung auf Ihrer Karte an und installieren Sie eine korrekte App</string>
     <string name="wallet_balance_tx_in_progress">Die Transaktion läuft…</string>
     <string name="wallet_pending_tx_sending">Senden\u0020</string>
     <string name="wallet_pending_tx_sending_address_format">an %s </string>
@@ -98,7 +98,7 @@
     <string name="alert_card_signed_transactions">Diese Karte wurde früher bereits aufgeladen und Transaktionen wurden damit signiert. Ziehen Sie eine sofortige Auszahlung aller Beträge in Betracht, wenn Sie diese Karte von einer nicht vertrauenswürdigen Quelle erhalten haben.</string>
     <string name="alert_title">Warnung</string>
 
-    <string name="alert_unsupported_card">Diese Karte ist für die Zusammenarbeit mit Tangem nicht geeignet</string>
+    <string name="alert_unsupported_card">Diese Karte ist für die Zusammenarbeit mit Crysalis nicht geeignet</string>
     <string name="alert_developer_card">Die von Ihnen gescannte Karte ist eine Entwicklungskarte. Akzeptieren Sie sie nicht als Zahlungsmittel</string>
     <string name="alert_old_card">Die vor September 2019 ausgestellten Karten können mit iPhone momentan nicht extrahiert werden. Wir arbeiten eng mit Apple zusammen, damit es in den nächsten Versionen von iOS möglich wäre.</string>
     <string name="initial_message_sign_header">Tippen um zu signieren</string>
@@ -112,18 +112,18 @@
 
     <string name="disclaimer_text">
 RECHTLICHER HAFTUNGSAUSSCHLUSS
-\n\n1.Tangem App (Software)
+\n\n1.Crysalis App (Software)
  
-\n\nDie Software ist nur für die Verwendung mit Tangem hardware Wallets (Karten) über NFC-Schnittstelle geeignet. Die Software:
+\n\nDie Software ist nur für die Verwendung mit Crysalis hardware Wallets (Karten) über NFC-Schnittstelle geeignet. Die Software:
  
 \n\na.	generieret, speichert, überträgt KEINE privaten (geheimen) kryptografischen Schlüssel für Blockchain- Wallets mit digitalen Assets, einschließlich Kryptowährung, und hat KEINEN Zugriff darauf.
 \n\nb.	generieret, speichert, überträgt KEINE geheimen Schlüssel, Passwörter, Passphrasen, Wiederherstellungssätze, die verwendet werden können, um private (geheime) Schlüssel in Blockchain- Wallets, die digitale Assets enthalten, wiederherzustellen oder zu kopieren, einschließlich Kryptowährung, und hat KEINEN Zugriff darauf.
-\n\nc.	erbringt KEINE Wechsel-, Handels- und Investitionsdienstleistungen im Auftrag der Tangem AG.
+\n\nc.	erbringt KEINE Wechsel-, Handels- und Investitionsdienstleistungen im Auftrag der Synectify, Pte Ltd.
  
  
 \n\n2.	Risiken im Zusammenhang mit der Verwendung von Software
  
-\n\nTangem haftet nicht für Verluste, Schäden oder Ansprüche aus den Ereignissen, die in den Geltungsbereich von folgenden fünf Kategorien fallen:
+\n\nSynectify haftet nicht für Verluste, Schäden oder Ansprüche aus den Ereignissen, die in den Geltungsbereich von folgenden fünf Kategorien fallen:
  
 \n\na.	Fehler, die der Benutzer einer kryptowährungsbezogenen Software oder eines kryptowährungsbezogenen Services macht, z.B. vergessene Passwörter, an falsche Adressen gesendete Zahlungen und zufälliges Löschen von Blockchain-Wallets auf Karten.
 \n\nb.	Probleme mit Software und/oder blockchain- oder kryptowährungsbezogener Software oder Services, z.B. beschädigte Dateien, falsch konstruierte Transaktionen, unsichere kryptografische Bibliotheken, Schadsoftware.
